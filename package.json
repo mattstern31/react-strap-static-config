@@ -295,7 +295,7 @@
     "babel-preset-react-app": "^10.0.1",
     "bootstrap": "^5.1.0",
     "concurrently": "^7.6.0",
-    "conventional-changelog-cli": "^2.0.21",
+    "conventional-changelog-cli": "^4.1.0",
     "conventional-recommended-bump": "^4.1.1",
     "cross-env": "^4.0.0",
     "customize-cra": "^0.9.1",
