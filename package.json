@@ -283,7 +283,7 @@
     "@storybook/addon-actions": "^6.3.7",
     "@storybook/addon-essentials": "^6.3.7",
     "@storybook/addon-links": "^6.3.7",
-    "@storybook/addon-storysource": "^6.3.7",
+    "@storybook/addon-storysource": "^7.6.8",
     "@storybook/react": "^6.3.7",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "12.1.5",
